@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 🚀 What I'm up to:
 - 💼 Working on my personal project: Spill Over
 - 📚 Learning third-party dependencies: Alamofire and SnapKit
