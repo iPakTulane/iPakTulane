@@ -14,6 +14,6 @@
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/igor-pak-39152a42/)
 - 📬 Telegram: [@iPak_Dev](https://t.me/iPak_Dev)
 
-#### 😄 Fun fact:
+#### 😂 Fun facts:
 - ✨ I never attended graduate proms!
 - 🏛️ I transitioned from a 12+ year career as a corporate lawyer to programming!
