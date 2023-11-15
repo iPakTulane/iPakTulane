@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**iPakTulane/iPakTulane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I'm up to:
+- 💼 Working on my personal project: Spill Over
+- 📚 Learning third-party dependencies: Alamofire and SnapKit
+- 👥 Open to collaborating on any exciting open-source iOS projects
+- 🛠 Seeking help with advanced debugging tools
 
-Here are some ideas to get you started:
+## 💬 Ask me about:
+- 📱 Swift development
+- ⚖️ Legal matters
+- 🎨 Painting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- 📧 Email: [ipak.tulane@gmail.com](mailto:ipak.tulane@gmail.com)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/igor-pak-39152a42/)
+- 📬 Telegram: [@iPakDev](https://t.me/iPakDev)
+
+## 😄 Fun fact:
+I never attended graduate proms! 🕺✨
