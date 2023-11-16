@@ -11,7 +11,7 @@
 
 #### 📫 How to reach me:
 - 📧 Email: [ipak.tulane@gmail.com](mailto:ipak.tulane@gmail.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/igor-pak-39152a42/)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/igor-pak/)
 - 📬 Telegram: [@iPak_Dev](https://t.me/iPak_Dev)
 
 #### 😂 Fun facts:
