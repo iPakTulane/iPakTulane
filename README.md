@@ -10,7 +10,7 @@
 - 🎨 Painting
 
 #### 📫 How to reach me:
-- 📧 Email: [ipak.tulane@gmail.com](mailto:ipak.tulane@gmail.com)
+- 📧 Email: [ipak.dev@gmail.com](mailto:ipak.dev@gmail.com)
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/igor-pak/)
 - 📬 Telegram: [@iPak_Dev](https://t.me/iPak_Dev)
 
