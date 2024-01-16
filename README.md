@@ -1,7 +1,7 @@
 #### 🚀 What I'm up to:
 - 💼 Working on my personal project: **Spill Over**
-- 📚 Learning third-party dependencies: **Alamofire** and **SnapKit**
-- 👥 Open to collaborating on any exciting open-source iOS projects
+- 📚 Learning **MVVM+C** and **Unit Testing**
+- 👥 Open to collaborating on exciting open-source iOS projects
 - 🛠 Seeking help with advanced debugging tools
 
 #### 💬 Ask me about:
