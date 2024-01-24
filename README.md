@@ -1,11 +1,11 @@
 #### 🚀 What I'm up to:
-- 💼 Working on my personal project: **Spill Over**
+- 💼 Working on project: **Neobis_iOS_NeoCafe**
 - 📚 Learning **MVVM+C** and **Unit Testing**
 - 👥 Open to collaborating on exciting open-source iOS projects
 - 🛠 Seeking help with advanced debugging tools
 
 #### 💬 Ask me about:
-- 📱 Swift development
+- 📱 Mobile app development
 - ⚖️ Legal matters
 - 🎨 Painting
 
