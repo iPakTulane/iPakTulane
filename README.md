@@ -1,5 +1,5 @@
 #### 🚀 What I'm up to:
-- 💼 Working on project: **Neobis_iOS_NeoCafe**
+- 💼 Working on project: **NeoCafe**
 - 📚 Learning **MVVM+C** and **Unit Testing**
 - 👥 Open to collaborating on exciting open-source iOS projects
 - 🛠 Seeking help with advanced debugging tools
