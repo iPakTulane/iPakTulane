@@ -1,6 +1,6 @@
 #### 🚀 What I'm up to:
 - 💼 Working on project: **NeoCafe**
-- 📚 Learning **MVVM+C** and **Unit Testing**
+- 📚 Learning **TDD**, **VIPER**, and **RxSwift**
 - 👥 Open to collaborating on exciting open-source iOS projects
 - 🛠 Seeking help with advanced debugging tools
 
