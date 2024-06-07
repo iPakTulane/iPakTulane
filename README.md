@@ -1,5 +1,5 @@
 #### 🚀 What I'm up to:
-- 💼 Working on project: **NeoCafe**
+- 💼 Working on project: **SELLO**
 - 📚 Learning **TDD**, **VIPER**, and **RxSwift**
 - 👥 Open to collaborating on exciting open-source iOS projects
 - 🛠 Seeking help with advanced debugging tools
