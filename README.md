@@ -1,11 +1,12 @@
 #### 🚀 What I'm up to:
-- 💼 Working on project: **SELLO**
-- 📚 Learning **TDD**, **VIPER**, and **RxSwift**
-- 👥 Open to collaborating on exciting open-source iOS projects
+- 💼 Working on project: **MyBank**
+- 📚 Learning **SwiftUI**, **Machine Learning**, and **LegalTech**
+- 👥 Open to collaborating on exciting open-source iOS/ML projects
 - 🛠 Seeking help with advanced debugging tools
 
 #### 💬 Ask me about:
-- 📱 Mobile app development
+- 📱 Mobile apps
+- 🤖 Machine Learning
 - ⚖️ Legal matters
 - 🎨 Painting
 
