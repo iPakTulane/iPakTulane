@@ -1,7 +1,7 @@
 #### 🚀 What I'm up to:
-- 💼 Working on project: **MyBank**
-- 📚 Learning **SwiftUI**, **Machine Learning**, and **LegalTech**
-- 👥 Open to collaborating on exciting open-source iOS/ML projects
+- 💼 Working on project: **Kengooroo**
+- 📚 Learning **Machine Learning**, **Artificial Intelligence**, and **AI Integration**
+- 👥 Open to collaborating on exciting open-source ML/AI projects
 - 🛠 Seeking help with advanced debugging tools
 
 #### 💬 Ask me about:
